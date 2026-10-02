@@ -418,55 +418,36 @@ assets/
 ## 世界観
 
 - [世界概要](world/overview.md)
-- [歴史](world/history.md)
-- [暦](world/calendar.md)
-- [宗教](world/religion.md)
-- [文化](world/culture.md)
+- [システムの五層構造](world/system.md)
+- [世界の歴史と存続](world/history.md)
+- [現実時間と世界時間](world/time.md)
+- [生物AI・出生・成長・死](world/life.md)
+- [世界管理AI](world/management-ai.md)
+- [神と宗教](world/religion.md)
+- [外部入出力と神託の水晶](world/external-interface.md)
+- [バグと異常現象](world/anomalies.md)
 
-## 登場人物
+## 地理・魔法
 
-- [人物一覧](characters/README.md)
-
-## 地理
-
-- [世界地図](locations/world-map.md)
-- [国家](locations/kingdoms/)
-- [都市](locations/cities/)
-
-## 組織・勢力
-
-- [勢力一覧](factions/)
-
-## 魔法
-
+- [世界の端](locations/world-edge.md)
 - [魔法体系](magic/overview.md)
-- [魔法のルール](magic/rules.md)
-- [魔法・術式](magic/spells.md)
-- [魔法道具・アーティファクト](magic/artifacts.md)
-
-## 生物
-
-- [生物・魔物](creatures/)
 
 ## ストーリー
 
-- [物語概要](story/premise.md)
-- [プロット](story/plot.md)
+- [物語概要とテーマ](story/premise.md)
+- [全体プロット](story/plot.md)
 - [物語時系列](story/timeline.md)
-- [章](story/chapters/)
-- [未解決事項](story/unresolved.md)
+- [第一章：世界の外を夢想した者](story/chapters/chapter-01.md)
+- [第二章：書物を継ぐ者](story/chapters/chapter-02.md)
+- [第三章：外を見る者](story/chapters/chapter-03.md)
+- [物語の未解決事項](story/unresolved.md)
 
-## リファレンス
+## リファレンス・メモ
 
 - [用語集](reference/glossary.md)
-- [名称一覧](reference/names.md)
 - [年代記](reference/chronology.md)
-
-## メモ
-
-- [アイデア](notes/ideas.md)
-- [検討事項](notes/questions.md)
-- [不採用案](notes/discarded.md)
+- [短編・サブストーリー案](notes/ideas.md)
+- [世界設定の検討事項](notes/questions.md)
 
 ---
 
